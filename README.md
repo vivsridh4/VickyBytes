@@ -1,3 +1,8 @@
+### Developer Community Updates!
+
+Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
+Monthly Learning resources - [Get access](https://github.com/microsoft/monthlyresources) <br>
+
 ### Series: GitHub Actions for Azure
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
