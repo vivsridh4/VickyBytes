@@ -1,4 +1,4 @@
-## Series: Java on Azure
+### Series: Java on Azure
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
