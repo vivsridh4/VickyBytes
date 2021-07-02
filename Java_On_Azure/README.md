@@ -1,28 +1,18 @@
-### Series: GitHub Actions for Azure
+### Series: Java on Azure
 
-This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
+In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
-## Deploying apps on Azure web apps using GitHub Actions
+### Building & deploying Java apps on Azure
 
-* Introduction to GitHub Actions
-* Getting started with GitHub Actions
-* Deploying app on Azure web app using GitHub Actions
+In this demo-filled session, we will learn how to build and scale Java applications on Azure using Azure services: App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
-## CI/CD with GitHub Actions for Kubernetes & Serverless apps
+### Deploying Spring Boot Apps to Azure Kubernetes Service
 
-* Deploying serverless app 
-* Deploying containers and kubernetes app
+In this talk, you will see a combination of the two most popular open-source technologies, i.e. Containers & Kubernetes to develop and deploy a Spring boot application to Microsoft Azure. We will use spring boot for app development and Kubernetes for container deployment and Microsoft Azure Kubernetes Service(AKS) to host your application.
 
-## Streamlining database and ML deployments using GitHub Actions
+### Deploying a Spring Boot app to Azure
 
-* Deploying Machine Learning app using GitHub Actions 
-* Deploying databases changes using GitHub Actions 
-
-## Implementing container scanning and accelerating development with GitHub Actions
-
-* Infra as code using GitHub actions
-* Container scanning
-* Accelerating development via visual studio extension & CLI
+In this demo-filled session, we will learn how to deploy spring boot applications to three Azure PaaS platform: Azure Spring Cloud, Azure App Service & Azure Kubernetes Service.
 
 
 
