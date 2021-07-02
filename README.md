@@ -1,3 +1,5 @@
+### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
+
 ### Series: GitHub Actions for Azure
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
