@@ -4,15 +4,24 @@ In this series, we will learn how to build and scale Java applications on Azure 
 
 ### Building & deploying Java apps on Azure
 
-In this demo-filled session, we will learn how to build and scale Java applications on Azure using Azure services: App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
+* Java on Azure App Services
+* Containerizing Java App
+* Building, Push images to Azure Cotainer Registry
+* Deploying Java apps to Azure Container Instance
+* Java apps on Azure Kubernetes Services
+* Spring boot apps on Azure Spring Cloud
 
 ### Deploying Spring Boot Apps to Azure Kubernetes Service
 
-In this talk, you will see a combination of the two most popular open-source technologies, i.e. Containers & Kubernetes to develop and deploy a Spring boot application to Microsoft Azure. We will use spring boot for app development and Kubernetes for container deployment and Microsoft Azure Kubernetes Service(AKS) to host your application.
+* Spring boot app on Azure Kubernetes Service - demo
 
 ### Deploying a Spring Boot app to Azure
 
-In this demo-filled session, we will learn how to deploy spring boot applications to three Azure PaaS platform: Azure Spring Cloud, Azure App Service & Azure Kubernetes Service.
+* Deploying Spring boot app:
+
+    - Azure Spring Cloud
+    - Azure App Service
+    - Azure Kubernetes Service 
 
 
 
