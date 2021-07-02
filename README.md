@@ -26,5 +26,5 @@ In this series, we will learn how to build and scale Java applications on Azure 
 ### Developer Community Updates!
 
 Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
-Monthly Learning resources - [Get access](https://github.com/microsoft/monthlyresources) <br>
+Monthly Learning resources - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
 
