@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning - DevOps with kubernetes, python flask, CNCF tools, AI/ML
 - 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, Developer communities, traveling & more
 
+
 <p align="left"> <a href="https://twitter.com/vivek_sridhar" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_sridhar?logo=twitter&style=for-the-badge" alt="vivek_sridhar" /></a> </p>
 
 #### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
@@ -17,7 +18,7 @@
 ## Developer Community Updates!
 
 Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
-Monthly Learning resources updated and for July it's Cloud Native Apps - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
+Monthly Learning resources updated and for July it's Cloud Native Apps - [Follow the repo to get access monthly](https://github.com/microsoft/monthlyresources) <br>
 
 ## My July Calendar
 
