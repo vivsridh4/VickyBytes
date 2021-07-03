@@ -22,7 +22,7 @@
 Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
 Monthly Learning resources updated and for July it's Cloud Native Apps - [Follow the repo to get access monthly](https://github.com/microsoft/monthlyresources) <br>
 
-## My July Calendar
+## July Calendar
 
 #### Series: GitHub Actions for Azure
 
