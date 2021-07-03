@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://drive.google.com/thumbnail?id=180x0d9UBnjWVPexLIshWzmuNgqHULf5w">
 </p>
 
-#### Hi there, I'm Vivek Sridhar 👋
+## Hi there, I'm Vivek Sridhar 👋
 
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
@@ -14,11 +14,17 @@
 
 #### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
+## Developer Community Updates!
+
+Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
+Monthly Learning resources updated and for July it's Cloud Native Apps - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
+
+## My July Calendar
+
 #### Series: GitHub Actions for Azure
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
-##### July Calendar
 
 |     Date     |    Talk Title     |   Technology    | Event URL |
 |     :---    | :---:           |    :---:      | :---:       |
@@ -31,7 +37,6 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
-#### July Calendar
 
 |     Date        | Talk Title                                                   | Technology    | Event URL |
 |     :---        | :---:                                                        |    :---:      | :---:       |
@@ -39,8 +44,4 @@ In this series, we will learn how to build and scale Java applications on Azure 
 | 24th July 2021  | Deploying Spring Boot Apps to Azure Kubernetes Service       | Spring Framework, <br> Spring Cloud, Kubernetes |  [Join the discussion](https://www.meetup.com/azure-developer-community-mumbai/events/279163681/)        |
 | 31th July 2021  | Deploying a Spring Boot app to Azure                         | Spring Framework, <br> Spring Cloud, Kubernetes, Azure PaaS  |  [Join the discussion](https://www.meetup.com/azure-developer-community-chennai/events/279145191/)        |
 
-#### Developer Community Updates!
-
-Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
-Monthly Learning resources updated this month for CNCF tools - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
 
