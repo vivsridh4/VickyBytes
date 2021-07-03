@@ -1,12 +1,24 @@
-DevRel @ Microsoft India | Ex-Sr. Developer Advocate @ DigitalOcean | Startup Founder | Ex-Head of DevOps @ BlackBuck | Ex-IBMer | Technophile | DevOps & Cloud enthusiast | A wanderlust
+<p align="left">
+  <img width="200" height="200" src="https://drive.google.com/thumbnail?id=180x0d9UBnjWVPexLIshWzmuNgqHULf5w">
+</p>
 
-### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
+#### Hi there, I'm Vivek Sridhar 👋
 
-### Series: GitHub Actions for Azure
+#### Technophile | DevOps & Cloud enthusiast | A wanderlust!
+
+- 🔭 I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
+- 🌱 I’m currently learning - DevOps with kubernetes, python flask, CNCF tools, AI/ML
+- 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, Developer communities, traveling & more
+
+<p align="left"> <a href="https://twitter.com/vivek_sridhar" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_sridhar?logo=twitter&style=for-the-badge" alt="vivek_sridhar" /></a> </p>
+
+#### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
+
+#### Series: GitHub Actions for Azure
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
-#### July Calendar
+##### July Calendar
 
 |     Date     |    Talk Title     |   Technology    | Event URL |
 |     :---    | :---:           |    :---:      | :---:       |
@@ -15,7 +27,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 | 28th July 2021  | Streamlining database and ML deployments using GitHub Actions     | Database, AI/ML  |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)        |
 | 30th July 2021  | Implementing container & accelerating development with GitHub     | Container Security, <br> VS code Extension  |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)        |
 
-### Series: Java On Azure
+#### Series: Java On Azure
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
@@ -27,8 +39,8 @@ In this series, we will learn how to build and scale Java applications on Azure 
 | 24th July 2021  | Deploying Spring Boot Apps to Azure Kubernetes Service       | Spring Framework, <br> Spring Cloud, Kubernetes |  [Join the discussion](https://www.meetup.com/azure-developer-community-mumbai/events/279163681/)        |
 | 31th July 2021  | Deploying a Spring Boot app to Azure                         | Spring Framework, <br> Spring Cloud, Kubernetes, Azure PaaS  |  [Join the discussion](https://www.meetup.com/azure-developer-community-chennai/events/279145191/)        |
 
-### Developer Community Updates!
+#### Developer Community Updates!
 
-Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
-Monthly Learning resources - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
+Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
+Monthly Learning resources updated this month for CNCF tools - [Follow repo](https://github.com/microsoft/monthlyresources) <br>
 
