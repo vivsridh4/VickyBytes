@@ -1,3 +1,5 @@
+DevRel @ Microsoft India | Ex-Sr. Developer Advocate @ DigitalOcean | Startup Founder | Ex-Head of DevOps @ BlackBuck | Ex-IBMer | Technophile | DevOps & Cloud enthusiast | A wanderlust
+
 ### Checkout my talks on YouTube - [Playlist](https://www.youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
 ### Series: GitHub Actions for Azure
