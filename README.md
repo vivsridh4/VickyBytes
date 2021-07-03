@@ -10,20 +10,9 @@
 
 Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Sr. Developer Product Marketing Manager. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
-#### Products, Tools & Languages
+#### Access all my talks on my channel [VickyBytes](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw) on YouTube
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Java" width="40" height="40"/>
-
-#### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
-
-[![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=-_sSL0H1ADQ&list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw&ab_channel=Topcoder)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivsridh4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## July Calendar
 
