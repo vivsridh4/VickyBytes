@@ -2,7 +2,9 @@
   <img width="200" height="200" src="https://drive.google.com/thumbnail?id=180x0d9UBnjWVPexLIshWzmuNgqHULf5w">
 </p>
 
-## Hi there, I'm Vivek Sridhar 👋
+## Hi there, I'm Vivek Sridhar 👋 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/vivek_sridhar?label=Follow%20me%20on%20Twitter&style=social) 
 
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
@@ -10,17 +12,9 @@
 - 🌱 I’m currently learning - GO programming, Argo CI/CD, AI/ML
 - 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, Developer communities, traveling & more
 
-
-<p align="left"> <a href="https://twitter.com/vivek_sridhar" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_sridhar?logo=twitter&style=for-the-badge" alt="vivek_sridhar" /></a> </p>
-
 #### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
 [![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=-_sSL0H1ADQ&list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw&ab_channel=Topcoder)
-
-## Developer Community Updates!
-
-Microsoft Cloud advocates launched Machine Learning for Beginners - [Get started](https://github.com/microsoft/ML-For-Beginners) <br>
-Monthly Learning resources updated and for July it's Cloud Native Apps - [Follow the repo](https://github.com/microsoft/monthlyresources) <br>
 
 ## July Calendar
 
@@ -46,5 +40,3 @@ In this series, we will learn how to build and scale Java applications on Azure 
 | 17th July 2021  | Building & deploying Java apps on Azure                      | Java Apps, Containers,<br> Kubernetes,Spring Cloud |      [Join the discussion](https://www.meetup.com/azure-developer-community-raipur/events/279201407/)      | 
 | 24th July 2021  | Deploying Spring Boot Apps to Azure Kubernetes Service       | Spring Framework, <br> Spring Cloud, Kubernetes |  [Join the discussion](https://www.meetup.com/azure-developer-community-mumbai/events/279163681/)        |
 | 31th July 2021  | Deploying a Spring Boot app to Azure                         | Spring Framework, <br> Spring Cloud, Kubernetes, Azure PaaS  |  [Join the discussion](https://www.meetup.com/azure-developer-community-chennai/events/279145191/)        |
-
-
