@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivek_sridhar" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_sridhar?logo=twitter&style=for-the-badge" alt="vivek_sridhar" /></a> </p>
 
-#### Access my talks on [YouTube!](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
+#### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
 [![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=-_sSL0H1ADQ&list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw&ab_channel=Topcoder)
 
