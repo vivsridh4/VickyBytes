@@ -7,7 +7,7 @@
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
 - 🔭 I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
-- 🌱 I’m currently learning - DevOps with kubernetes, python flask, CNCF tools, AI/ML
+- 🌱 I’m currently learning - GO programming, Argo CI/CD, AI/ML
 - 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, Developer communities, traveling & more
 
 
