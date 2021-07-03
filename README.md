@@ -15,7 +15,7 @@
 
 #### Access my talks on YouTube!
 
-[![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
+[![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=-_sSL0H1ADQ&list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw&ab_channel=Topcoder)
 
 ## Developer Community Updates!
 
