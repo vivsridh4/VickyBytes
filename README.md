@@ -16,10 +16,10 @@ Developer Stack!
 src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Java" width="40" height="40"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Java" width="40" height="40"/>
 
-
 #### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
 [![Access my talks on YouTube](https://img.youtube.com/vi/-_sSL0H1ADQ/0.jpg)](https://www.youtube.com/watch?v=-_sSL0H1ADQ&list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw&ab_channel=Topcoder)
+
 
 ## July Calendar
 
