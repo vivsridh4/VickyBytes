@@ -10,14 +10,11 @@
 
 Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Sr. Developer Product Marketing Manager. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
-Developer Stack I have worked!
+Developer Stack!
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Java" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="40" height="40"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Java" width="40" height="40"/>
-
-
-icons/bash/bash-plain.svg
-icons/digitalocean/digitalocean-original.svg
+src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Java" width="40" height="40"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="Java" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Java" width="40" height="40"/>
 
 
 #### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
