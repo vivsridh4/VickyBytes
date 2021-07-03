@@ -8,9 +8,7 @@
 
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
-- 🔭 I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
-- 🌱 I’m currently learning - GO programming, Argo CI/CD, AI/ML
-- 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, Developer communities, traveling & more
+Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Sr. Developer Product Marketing Manager. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
 #### Access my talks on [YouTube](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw)
 
