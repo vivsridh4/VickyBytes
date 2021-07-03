@@ -10,9 +10,13 @@
 
 Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Sr. Developer Product Marketing Manager. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
-#### Access all my talks on my channel [VickyBytes](https://youtube.com/playlist?list=PLHliAWPfQr8yO0Q0ivMIVXDrfd74Qr5aw) on YouTube
+#### Access all my talks on my channel [VickyBytes](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g) on YouTube!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivsridh4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
+
+<a href="https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g?sub_confirmation=1"><img alt="youtube views" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?logoColor=brightgreen#"/></a>
+
+
 
 ## July Calendar
 
