@@ -1,6 +1,7 @@
 <p align="left">
-  <img width="200" height="200" src="https://drive.google.com/thumbnail?id=180x0d9UBnjWVPexLIshWzmuNgqHULf5w">
+  <img width="1000" height="500" src="https://user-images.githubusercontent.com/32955433/124379682-11856900-dcd6-11eb-9037-2d4caaa2b84d.png">
 </p>
+
 
 ## Hi there, I'm Vivek Sridhar 👋 
 
