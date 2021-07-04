@@ -1,7 +1,4 @@
-<p align="left">
-  <img width="1000" height="500" src="https://user-images.githubusercontent.com/32955433/124379682-11856900-dcd6-11eb-9037-2d4caaa2b84d.png">
-</p>
-
+[![Dark Blue and Turquoise Gaming YouTube Channel Art (3)](https://user-images.githubusercontent.com/32955433/124379682-11856900-dcd6-11eb-9037-2d4caaa2b84d.png)](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g)
 
 ## Hi there, I'm Vivek Sridhar 👋 
 
