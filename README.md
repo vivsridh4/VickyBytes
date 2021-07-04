@@ -6,7 +6,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vivek_sridhar?label=Follow%20me%20on%20Twitter&style=social) 
 
-<a href="https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
+<a href="https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=Blue#"/></a>
 
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
