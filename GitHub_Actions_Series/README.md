@@ -26,7 +26,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 ## Action for Developers
 
-Interested to learn about GitHub Actions? complete **"GitHub Actions on Azure"** challenge and take the next step in becoming a subject matter expert.
+Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"** challenge and take the next step in becoming a subject matter expert.
 
 Launch your [Skilling Challenge!](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/d3qhe4eqwrqw5)
 
