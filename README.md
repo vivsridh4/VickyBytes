@@ -16,11 +16,11 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
 
 Interested to learn about GitHub Actions? complete **"GitHub Actions on Azure"** challenge and take the next step in becoming a subject matter expert.
 
-Launch your [Skilling Challenge!](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/d3qhe4eqwrqw5)
+Launch your [Skilling Challenge!](https://aka.ms/MR/githubactions)
 
 ## July Calendar
 
-#### Series: GitHub Actions on Azure
+#### Series: GitHub Actions for Azure
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
