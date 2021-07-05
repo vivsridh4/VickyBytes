@@ -14,6 +14,12 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
 
 #### Access all my talks on my YouTube channel [VickyBytes!](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g)
 
+## Action for developers
+
+Interested to learn about GitHub Actions? complete "GitHub Actions on Azure" challenge within 30 days and take the next step in becoming a subject matter expert.
+
+Launch your [Skilling Challenge!](https://docs.microsoft.com/en-us/users/viveksridhar-6316/collections/d3qhe4eqwrqw5) 
+
 ## July Calendar
 
 #### Series: GitHub Actions for Azure
