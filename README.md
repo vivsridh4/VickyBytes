@@ -39,7 +39,7 @@ For content & more details - [GitHub Actions on Azure](GitHub_Actions_Series)
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
-For content & more details - [Java on Azure](GitHub_Actions_Series)
+For content & more details - [Java on Azure](Java_On_Azure)
 
 
 |     Date        | Talk Title                                                   | Event URL |
