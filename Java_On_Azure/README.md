@@ -13,6 +13,7 @@ In this series, we will learn how to build and scale Java applications on Azure 
 
 ## Deploying Spring Boot Apps to Azure Kubernetes Service
 
+* Introduction to Kubernetes
 * Spring boot app on Azure Kubernetes Service - demo
 
 ## Deploying a Spring Boot app to Azure
