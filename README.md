@@ -24,7 +24,7 @@ Launch your [Skilling Challenge!](https://aka.ms/MR/githubactions)
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
-For content & more details - [GitHub Actions on Azure](GitHub_Actions_Series)
+For content & more details - [GitHub Actions for Azure](GitHub_Actions_Series)
 
 
 
