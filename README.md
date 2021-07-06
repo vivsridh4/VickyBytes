@@ -33,7 +33,7 @@ For content & more details - [GitHub Actions for Azure](GitHub_Actions_Series)
 | 7th July 2021   | Deploying apps on Azure web apps using GitHub Actions            |      [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015119/)      |
 | 14th July 2021  | CI/CD with GitHub Action for Kubernetes & Serverless apps        |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015137/)         |
 | 28th July 2021  | Streamlining database and ML deployments using GitHub Actions    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)        |
-| 30th July 2021  | Implementing container & accelerating development with GitHub    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)        |
+| 30th July 2021  | Container scanning & accelerating development with GitHub    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)        |
 
 #### Series: Java On Azure
 
