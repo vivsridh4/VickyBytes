@@ -8,6 +8,10 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 * Getting started with GitHub Actions
 * Deploying app on Azure web app using GitHub Actions
 
+#### Content
+Code used in the demo - [GitHub repo](https://github.com/vivsridh4/quickstart) <br/>
+Deploy a custom container to App Service using GitHub Actions - [Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)
+
 ### CI/CD with GitHub Actions for Kubernetes & Serverless apps
 
 * Deploying serverless app 
