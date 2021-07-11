@@ -10,7 +10,7 @@
 
 Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Sr. Developer Product Marketing Manager. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
-#### Access all my talks on my YouTube channel [VickyBytes!](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g)
+#### Access all my talks on my YouTube channel [VickyBytes](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g)
 
 ## Action for developers
 
