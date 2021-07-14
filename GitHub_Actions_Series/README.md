@@ -19,7 +19,15 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 |     :---:    | :---:           | :---:       |
 | [GitHub repo](https://github.com/vivsridh4/quickstart)   | Deploy a custom container to App Service using GitHub Actions - [Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)  |      [Reactor YouTube Channel](https://www.youtube.com/watch?v=dyTXblcbqtg&t=1495s&ab_channel=MicrosoftReactor)   |
 
-### VickyHacks (Coming Soon)
+### VickyHacks
+
+Complete these challenges to upskill & become subject matter expert.
+
+#### Challenge - Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+#### How to Submit:
+
+Tweet your GitHub repo tagging - @MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia
 
 ### CI/CD with GitHub Actions for Kubernetes & Serverless apps
 
