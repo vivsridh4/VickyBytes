@@ -29,7 +29,7 @@ Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/
 
 **How to Submit:**
 
-Tweet your GitHub repo (with workflow) tagging - @MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia
+Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia**
 
 ### CI/CD with GitHub Actions for Kubernetes & Serverless apps
 
