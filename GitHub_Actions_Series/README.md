@@ -23,9 +23,9 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 Complete these challenges to upskill & become subject matter expert.
 
-#### Challenge - Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+**Challenge:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
 
-#### How to Submit:
+**How to Submit:**
 
 Tweet your GitHub repo tagging - @MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia
 
