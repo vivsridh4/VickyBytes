@@ -8,8 +8,6 @@ In this series, we will learn how to build and scale Java applications on Azure 
 * Containerizing Java App
 * Building, Push images to Azure Cotainer Registry
 * Deploying Java apps to Azure Container Instance
-* Java apps on Azure Kubernetes Services
-* Spring boot apps on Azure Spring Cloud
 
 ## Deploying Spring Boot Apps to Azure Kubernetes Service
 
