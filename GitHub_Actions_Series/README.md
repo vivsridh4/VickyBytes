@@ -16,8 +16,8 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 * Deploying app on Azure web app using GitHub Actions
 
 |     Source Code     |    Reference    | Video |
-|     :---:    | :---:           | :---:       |
-| [GitHub repo](https://github.com/vivsridh4/quickstart)   | Deploy a custom container to App Service using GitHub Actions: [Microsoft Docs](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)  |      [Reactor YouTube Channel](https://www.youtube.com/watch?v=dyTXblcbqtg&t=1495s&ab_channel=MicrosoftReactor)   |
+|     :---    | :---           | :---:       |
+| [GitHub repo - App Service](https://github.com/vivsridh4/quickstart)   | [Deploy a custom container to App Service using GitHub Actions](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)  |      [Recording](https://www.youtube.com/watch?v=dyTXblcbqtg&t=1495s&ab_channel=MicrosoftReactor)   |
 
 ### VickyHacks
 
@@ -35,6 +35,10 @@ Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #
 
 * Deploying serverless app 
 * Deploying containers and kubernetes app
+
+|     Source Code     |    Reference    | Video |
+|     :---    | :---           | :---:       |
+| [GitHub repo - Azure Functions](https://github.com/vivsridh4/funcapp)<br/>[GitHub repo - Azure Kubernetes Service](https://github.com/vivsridh4/azure-voting-app-redis) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=iRNfeZSkn5Y&ab_channel=MicrosoftReactor)   |
 
 ### Streamlining database and ML deployments using GitHub Actions
 
