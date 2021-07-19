@@ -40,12 +40,12 @@ Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #
 |     :---    | :---           | :---:       |
 | [GitHub repo - Azure Functions](https://github.com/vivsridh4/funcapp)<br/>[GitHub repo - Azure Kubernetes Service](https://github.com/vivsridh4/azure-voting-app-redis) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=iRNfeZSkn5Y&ab_channel=MicrosoftReactor)   |
 
-### Streamlining database and ML deployments using GitHub Actions
+### [Streamlining database and ML deployments using GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)
 
 * Deploying Machine Learning app using GitHub Actions 
 * Deploying databases changes using GitHub Actions 
 
-### Implementing container scanning and accelerating development with GitHub Actions
+### [Implementing container scanning and accelerating development with GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)
 
 * Infra as code using GitHub actions
 * Container scanning
