@@ -27,7 +27,7 @@ Complete these challenges to upskill.
 
 Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02) and then attempt this challenge.
 
-**How to Submit:**
+**Tweet how you hacked it!:**
 
 Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia**
 
