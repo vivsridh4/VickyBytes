@@ -35,7 +35,7 @@ For content & more details - [GitHub Actions for Azure](GitHub_Actions_Series)
 | 28th July 2021  | Streamlining database and ML deployments using GitHub Actions    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)        |
 | 30th July 2021  | Container scanning & accelerating development with GitHub    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)        |
 
-#### Series: Java On Azure
+#### [Series: Java On Azure](Java_On_Azure)
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
