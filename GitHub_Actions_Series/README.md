@@ -2,7 +2,7 @@
 
 Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"** challenge and take the next step in becoming a subject matter expert.
 
-Launch your [Skilling Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02)
+### [Launch your Skilling Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02)
 
 
 ## Series: GitHub Actions for Azure
@@ -19,17 +19,6 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 |     :---    | :---           | :---:       |
 | [GitHub repo - App Service](https://github.com/vivsridh4/quickstart)   | [Deploy a custom container to App Service using GitHub Actions](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)  |      [Recording](https://www.youtube.com/watch?v=dyTXblcbqtg&t=1495s&ab_channel=MicrosoftReactor)   |
 
-### VickyHacks
-
-Complete these challenges to upskill.
-
-**Challenge:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
-
-Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02) and then attempt this challenge.
-
-**Tweet how you hacked it!:**
-
-Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia**
 
 ### CI/CD with GitHub Actions for Kubernetes & Serverless apps
 
@@ -50,6 +39,18 @@ Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #
 * Infra as code using GitHub actions
 * Container scanning
 * Accelerating development via visual studio extension & CLI
+
+### VickyHacks
+
+Complete these challenges to upskill.
+
+**Challenge:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02) and then attempt this challenge.
+
+**Tweet how you hacked it!:**
+
+Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia**
 
 
 
