@@ -2,7 +2,7 @@
 
 Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"** challenge and take the next step in becoming a subject matter expert.
 
-### :man_technologist: :woman_technologist: [Launch your Skilling Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02)
+### :man_technologist: :woman_technologist: [Launch your skilling challenge](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02)
 
 
 ## Series: GitHub Actions for Azure
