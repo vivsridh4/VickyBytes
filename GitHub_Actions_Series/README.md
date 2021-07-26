@@ -9,7 +9,7 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
-### Deploying apps on Azure web apps using GitHub Actions
+### [Deploying apps on Azure web apps using GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015119/)
 
 * Introduction to GitHub Actions
 * Getting started with GitHub Actions
@@ -20,7 +20,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 | [GitHub repo - App Service](https://github.com/vivsridh4/quickstart)   | [Deploy a custom container to App Service using GitHub Actions](https://docs.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile)  |      [Recording](https://www.youtube.com/watch?v=dyTXblcbqtg&t=1495s&ab_channel=MicrosoftReactor)   |
 
 
-### CI/CD with GitHub Actions for Kubernetes & Serverless apps
+### [CI/CD with GitHub Actions for Kubernetes & Serverless apps](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015137/)
 
 * Deploying serverless app 
 * Deploying containers and kubernetes app
