@@ -42,15 +42,25 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 ### VickyHacks
 
-Complete these challenges to upskill.
-
-**Challenge:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
-
-Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02) and then attempt this challenge.
+Complete these hacks to upskill.
 
 **Tweet how you hacked it!:**
 
 Tweet your GitHub repo (with workflow) tagging - **@MSFTReactor @vivek_sridhar #vickyhacks #Azure @GitubIndia**
+
+Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/challenges?id=9e807718-5823-4193-93d4-fdf4d3127c02) and then attempt this challenge.
+
+#### **Hack - 01:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+#### **Hack - 02:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+#### **Hack - 03:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+#### **Hack - 04:** Build & Deploy a non container app to App Service using GitHub Actions (choose any of your favourite language).
+
+
+
+
 
 
 
