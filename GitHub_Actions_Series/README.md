@@ -40,7 +40,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 * Container scanning
 * Accelerating development via visual studio extension & CLI
 
-### VickyHacks
+### :avocado: VickyHacks
 
 Complete these hacks to upskill.
 
