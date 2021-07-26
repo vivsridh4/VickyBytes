@@ -24,7 +24,7 @@ Launch your [Skilling Challenge](https://aka.ms/MR/githubactions)
 
 This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
 
-For content & more details - [GitHub Actions for Azure](GitHub_Actions_Series)
+For content & more details - **[GitHub Actions for Azure](GitHub_Actions_Series)**
 
 
 
@@ -39,7 +39,7 @@ For content & more details - [GitHub Actions for Azure](GitHub_Actions_Series)
 
 In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
 
-For content & more details - [Java on Azure](Java_On_Azure)
+For content & more details - **[Java on Azure](Java_On_Azure)**
 
 
 |     Date        | Talk Title                                                   | Event URL |
