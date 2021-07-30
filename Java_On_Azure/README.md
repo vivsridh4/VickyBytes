@@ -20,6 +20,10 @@ In this series, we will learn how to build and scale Java applications on Azure 
 * Introduction to Kubernetes
 * Spring boot app on Azure Kubernetes Service - demo
 
+|    Reference    | Video |
+| :---           | :---:       |
+| [Introduction to Kubernetes on Azure](https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/) <br/> [Deploy Spring Boot Application to the Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/deploy-spring-boot-java-app-on-kubernetes) |      [Recording](https://www.youtube.com/watch?v=8UGmc4NWk8I&t=1826s&ab_channel=AzureDeveloperCommunity)   |
+
 ## Deploying a Spring Boot app to Azure
 
 * Deploying Spring boot app:
