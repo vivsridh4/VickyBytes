@@ -66,6 +66,8 @@ Tips: Complete [Microsoft Learn modules](https://docs.microsoft.com/en-us/learn/
 
 :seedling: **Hack - 03:** Build & Deploy a Java function app to Azure Functions using GitHub Actions.
 
+:seedling: **Hack - 04:** Use any of the Azure community policy with GitHub Actions.
+
 more hacks to come!
 
 
