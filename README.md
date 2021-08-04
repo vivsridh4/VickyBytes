@@ -18,33 +18,11 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 
 **[Launch your skilling challenge.](https://aka.ms/MR/githubactions)**
 
-## July Calendar
+## Completed Series
 
 #### [Series: GitHub Actions for Azure](GitHub_Actions_Series)
-
-This series will discuss how to automate your workflows on any GitHub event, such as code commits, creation of pull requests, and more. Then, deploy to Azure (CI/CD for Kubernetes & serverless apps), learn how to automate governance & security, and accelerate development with visual studio code extension & CLI.
-
-For content & more details - **[GitHub Actions for Azure](GitHub_Actions_Series)**
-
-
-
-|     Date     |    Talk Title    | Event URL |
-|     :---:    | :---           | :---:       |
-| 7th July 2021   | Deploying apps on Azure web apps using GitHub Actions            |      [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015119/)      |
-| 14th July 2021  | CI/CD with GitHub Action for Kubernetes & Serverless apps        |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015137/)         |
-| 28th July 2021  | Streamlining database and ML deployments using GitHub Actions    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)        |
-| 30th July 2021  | Container scanning & accelerating development with GitHub    |  [Join the discussion](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)        |
-
 #### [Series: Java On Azure](Java_On_Azure)
 
-In this series, we will learn how to build and scale Java applications on Azure using Azure services like App Service, Azure Container Instance, Azure Kubernetes Services, Azure container registry, Azure Spring Cloud for spring boot apps and more.
+## August Calendar
 
-For content & more details - **[Java on Azure](Java_On_Azure)**
-
-
-|     Date        | Talk Title                                                   | Event URL |
-|     :---:        | :---                                                       | :---:       |
-| 17th July 2021  | Building & deploying Java apps on Azure                     |      [Join the discussion](https://www.meetup.com/azure-developer-community-raipur/events/279201407/)      | 
-| 24th July 2021  | Deploying Spring Boot Apps to Azure Kubernetes Service      |  [Join the discussion](https://www.meetup.com/azure-developer-community-mumbai/events/279163681/)        |
-| 31th July 2021  | Deploying a Spring Boot app to Azure                        |  [Join the discussion](https://www.meetup.com/azure-developer-community-chennai/events/279145191/)        |
-
+Coming soon.
