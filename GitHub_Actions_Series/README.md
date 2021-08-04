@@ -46,7 +46,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 |     Source Code     |    Reference    | Video |
 |     :---    | :---           | :---:       |
-| [GitHub repo - Azure Functions](https://github.com/vivsridh4/funcapp)<br/>[GitHub repo - Azure Kubernetes Service](https://github.com/vivsridh4/azure-voting-app-redis) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=A3ubK3oMhg8&t=2179s&ab_channel=MicrosoftReactor)   |
+| [GitHub repo - Container Scanning](https://github.com/vivsridh4/containerscan)<br/>[GitHub repo - Azure ARM Templates](https://github.com/vivsridh4/deploy_arm_template) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=A3ubK3oMhg8&t=2179s&ab_channel=MicrosoftReactor)   |
 
 ### :avocado: VickyHacks
 
