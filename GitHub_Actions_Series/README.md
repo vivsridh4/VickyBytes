@@ -36,7 +36,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 |     Source Code     |    Reference    | Video |
 |     :---    | :---           | :---:       |
-| [GitHub repo - Azure Machine Learning](https://github.com/vivsridh4/azureml-githubactions)<br/>[GitHub repo - Azure databases](https://github.com/vivsridh4/azure-database-githubactions) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=DwWsJwG5-KE&t=2297s&ab_channel=MicrosoftReactor)   |
+| [GitHub repo - Azure Machine Learning](https://github.com/vivsridh4/azureml-githubactions)<br/>[GitHub repo - Azure databases](https://github.com/vivsridh4/azure-database-githubactions) | [Use GitHub Actions with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-github-actions-machine-learning)<br/>[Quickstart: Create an Azure Database for MySQL server by using the Azure portal](https://docs.microsoft.com/en-us/azure/mysql/quickstart-create-mysql-server-database-using-azure-portal)<br/>[Quickstart: Use GitHub Actions to connect to Azure MySQL](https://docs.microsoft.com/en-us/azure/mysql/quickstart-mysql-github-actions)  | [Recording](https://www.youtube.com/watch?v=DwWsJwG5-KE&t=2297s&ab_channel=MicrosoftReactor)   |
 
 ### [30th July - Implementing container scanning and accelerating development with GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)
 
@@ -46,7 +46,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 
 |     Source Code     |    Reference    | Video |
 |     :---    | :---           | :---:       |
-| [GitHub repo - Container Scanning](https://github.com/vivsridh4/containerscan)<br/>[GitHub repo - Azure ARM Templates](https://github.com/vivsridh4/deploy_arm_template) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=A3ubK3oMhg8&t=2179s&ab_channel=MicrosoftReactor)   |
+| [GitHub repo - Container Scanning](https://github.com/vivsridh4/containerscan)<br/>[GitHub repo - Azure ARM Templates](https://github.com/vivsridh4/deploy_arm_template) | [Deploy ARM templates by using GitHub Actions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-github-actions)<br/>[Container Scanning](https://github.com/Azure/container-scan)<br/>[Manage Azure Policies with GitHub](https://docs.microsoft.com/en-in/azure/developer/github/manage-azure-policy) | [Recording](https://www.youtube.com/watch?v=A3ubK3oMhg8&t=2179s&ab_channel=MicrosoftReactor)   |
 
 ### :avocado: VickyHacks
 
