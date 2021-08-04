@@ -16,7 +16,7 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
 
 Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"** challenge and take the next step in becoming a subject matter expert.
 
-**Launch your [skilling challenge.](https://aka.ms/MR/githubactions)**
+**[Launch your skilling challenge.](https://aka.ms/MR/githubactions)**
 
 ## July Calendar
 
