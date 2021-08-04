@@ -34,11 +34,19 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 * Deploying Machine Learning app using GitHub Actions 
 * Deploying databases changes using GitHub Actions 
 
+|     Source Code     |    Reference    | Video |
+|     :---    | :---           | :---:       |
+| [GitHub repo - Azure Machine Learning](https://github.com/vivsridh4/azureml-githubactions)<br/>[GitHub repo - Azure databases](https://github.com/vivsridh4/azure-database-githubactions) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=DwWsJwG5-KE&t=2297s&ab_channel=MicrosoftReactor)   |
+
 ### [30th July - Implementing container scanning and accelerating development with GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)
 
 * Infra as code using GitHub actions
 * Container scanning
 * Accelerating development via visual studio extension & CLI
+
+|     Source Code     |    Reference    | Video |
+|     :---    | :---           | :---:       |
+| [GitHub repo - Azure Functions](https://github.com/vivsridh4/funcapp)<br/>[GitHub repo - Azure Kubernetes Service](https://github.com/vivsridh4/azure-voting-app-redis) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=A3ubK3oMhg8&t=2179s&ab_channel=MicrosoftReactor)   |
 
 ### :avocado: VickyHacks
 
