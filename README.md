@@ -25,7 +25,7 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 
 ## August Calendar
 
-#### [ElasticOnAzure: Deploy & Scale Elastic Cloud on Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
+#### [20th Aug - ElasticOnAzure: Deploy & Scale Elastic Cloud on Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
 
 * Understand how the three different deployment options for Elastic on Azure ease your migration to the cloud
 * Deploy Elastic on Azure virtual machines
@@ -34,13 +34,12 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 
 20 mins: Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools
 
-#### [ElasticOnAzure: Deploy & Scale Elastic Cloud on Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
+#### [3rd Sept - ElasticOnAzure: Deploy Elastic Cloud on Azure Kubernetes Service](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
 
-* Understand how the three different deployment options for Elastic on Azure ease your migration to the cloud
-* Deploy Elastic on Azure virtual machines
-* Deploy Elastic Cloud on Azure
-* Use Kibana after deployment with sample data
-
+* Introduction to Kubernetes Architecture
+* Create a Kubernetes cluster using Azure Kubernetes Service (AKS)
+* Install Elastic Cloud on Kubernetes (ECK) on AKS
+* Deploy Elasticsearch and Kibana
 
 
 
