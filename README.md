@@ -39,7 +39,7 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 * Install Elastic Cloud on Kubernetes (ECK) on AKS
 * Deploy Elasticsearch and Kibana
 
-20 mins: Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools
+Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools
 
 ## Attending Events 
 
