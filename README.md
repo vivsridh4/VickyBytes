@@ -20,8 +20,8 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 
 ## Completed Series
 
-#### [Series: GitHub Actions for Azure](GitHub_Actions_Series)
-#### [Series: Java On Azure](Java_On_Azure)
+[Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
+[Series: Java On Azure](Java_On_Azure)
 
 ## August Calendar
 
@@ -32,12 +32,18 @@ Interested to learn about GitHub Actions? complete **"GitHub Actions for Azure"*
 * Deploy Elastic Cloud on Azure
 * Use Kibana after deployment with sample data
 
-#### [3rd Sept - ElasticOnAzure: Deploy Elastic Cloud on Azure Kubernetes Service](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
+#### [3rd Sept - ElasticOnAzure: Deploy Elastic Cloud on Azure Kubernetes Service](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653588/)
 
 * Introduction to Kubernetes Architecture
 * Create a Kubernetes cluster using Azure Kubernetes Service (AKS)
 * Install Elastic Cloud on Kubernetes (ECK) on AKS
 * Deploy Elasticsearch and Kibana
 
-20 mins: Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools in both the sessions.
+20 mins: Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools
+
+## Attending Events 
+
+[Overview of Azure Serverless](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/)
+
+
 
