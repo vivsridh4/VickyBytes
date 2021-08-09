@@ -37,8 +37,8 @@ Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) 
 
 ## Interesting Events 
 
-[10th Aug - Overview of Azure Serverless](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/) by [Gwyneth Peña-Siguenza](https://twitter.com/madebygps) <br/>
-[11th Aug - Build AI-Enabled Apps with Xamarin and Azure Cognitive Services](https://www.meetup.com/microsoft-reactor-bengaluru/events/279629802/) by [Aditya Oberai](https://twitter.com/adityaoberai1)
-[14th Aug to 28th Aug - Azure AI / ML Study Jam](https://www.azdev.community/) by [Vivek Raja](https://twitter.com/VivekRaja007)
+* [10th Aug - Overview of Azure Serverless - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/) [Gwyneth Peña-Siguenza](https://twitter.com/madebygps)
+* [11th Aug - Build AI-Enabled Apps with Xamarin and Azure Cognitive Services - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279629802/) [Aditya Oberai](https://twitter.com/adityaoberai1)
+* [14th Aug to 28th Aug - Azure AI / ML Study Jam - ](https://www.azdev.community/) [Vivek Raja](https://twitter.com/VivekRaja007)
 
 
