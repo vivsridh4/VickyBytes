@@ -37,7 +37,7 @@ Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) 
 
 ## Interesting talks 
 
-[10th Aug - Overview of Azure Serverless](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/)
+[10th Aug - Overview of Azure Serverless](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/) by [Gwyneth Peña-Siguenza](https://twitter.com/madebygps)
 
 
 
