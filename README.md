@@ -42,6 +42,11 @@ Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) 
 * [14th Aug to 28th Aug - Azure AI / ML Study Jam - ](https://www.azdev.community/) [Vivek Raja](https://twitter.com/VivekRaja007)
 * [28th Aug - Hosting Python Packages in Azure DevOps - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279628846/) [Vivek Raja](https://twitter.com/VivekRaja007)
 
+## Workshops
+
+* [21st Aug - Build & deploy dockerized web apps with Azure DevOps on Kubernetes](https://www.meetup.com/microsoft-reactor-bengaluru/events/279880839/)
+* [28th Aug - Workshop: Cognitive Services and Deep Learning](https://www.meetup.com/microsoft-reactor-bengaluru/events/279881518/)
+
 ## Watch
 
 * [Simplify your Kubernetes setup through AKS Add Ons](https://www.youtube.com/watch?v=hEBgAZbvI8c&list=PLj6h78yzYM2P9m2pzzLmmBzYvmcJdKNXb&index=4&ab_channel=KubernetesBangalore)
