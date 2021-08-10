@@ -41,4 +41,7 @@ Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) 
 * [11th Aug - Build AI-Enabled Apps with Xamarin and Azure Cognitive Services - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279629802/) [Aditya Oberai](https://twitter.com/adityaoberai1)
 * [14th Aug to 28th Aug - Azure AI / ML Study Jam - ](https://www.azdev.community/) [Vivek Raja](https://twitter.com/VivekRaja007)
 
+## Recordings to watch
 
+* [Simplify your Kubernetes setup through AKS Add Ons](https://www.youtube.com/watch?v=hEBgAZbvI8c&list=PLj6h78yzYM2P9m2pzzLmmBzYvmcJdKNXb&index=4&ab_channel=KubernetesBangalore)
+* [Github Copilot - Are developers gonna lose jobs now?](https://www.youtube.com/watch?v=2j5PbLVA9ng&ab_channel=AravindPutrevu)
