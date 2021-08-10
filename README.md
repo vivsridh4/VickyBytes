@@ -35,7 +35,7 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
 
 Ask Me Anything(AMA) session with [Aravind](https://twitter.com/aravindputrevu) & [Vivek](https://twitter.com/vivek_sridhar) on Elastic Search, Azure and Open Source Tools
 
-## Interesting Events 
+## Interesting talks in August
 
 * [10th Aug - Overview of Azure Serverless - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279491890/) [Gwyneth Peña-Siguenza](https://twitter.com/madebygps)
 * [11th Aug - Build AI-Enabled Apps with Xamarin and Azure Cognitive Services - ](https://www.meetup.com/microsoft-reactor-bengaluru/events/279629802/) [Aditya Oberai](https://twitter.com/adityaoberai1)
