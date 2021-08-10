@@ -32,8 +32,9 @@ In this series, we will learn how to build and scale Java applications on Azure 
     - Azure App Service
     - Azure Kubernetes Service 
 
-
-
+|    Reference    | Video |
+| :---           | :---:       |
+| [Quickstart: Deploy your first Azure Spring Cloud application](https://docs.microsoft.com/en-in/azure/spring-cloud/quickstart?tabs=Azure-CLI&pivots=programming-language-java) | [Recording](https://www.youtube.com/watch?v=E5rrx0Ea93I&t=1578s&ab_channel=AzureDeveloperCommunity)   |
 
 
 
