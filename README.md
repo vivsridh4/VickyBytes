@@ -17,6 +17,14 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
 [Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
 [Series: Java On Azure](Java_On_Azure)
 
+## Action for Developers
+
+Discover the unique benefits of running an Elastic stack on Azure and learn how to build, deploy and scale Elastic using different deployment options. By completing this challenge - you will learn how the three different deployment options for Elastic stack on Azure work and how to migrate elastic workload to Azure.
+
+[Launch Cloud Skilling Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=120ed721-2562-4096-a622-79b341578a6f&wt.mc_id=seriespg_Elastic%20On%20Azure_webpage_reactor)
+
+Cloud
+
 ## August Calendar
 
 #### [20th Aug - ElasticOnAzure: Deploy & Scale Elastic Cloud on Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
