@@ -23,8 +23,6 @@ Discover the unique benefits of running an Elastic stack on Azure and learn how 
 
 [Launch Cloud Skilling Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=120ed721-2562-4096-a622-79b341578a6f&wt.mc_id=seriespg_Elastic%20On%20Azure_webpage_reactor)
 
-Cloud
-
 ## August Calendar
 
 #### [20th Aug - ElasticOnAzure: Deploy & Scale Elastic Cloud on Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/279653245/)
