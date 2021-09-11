@@ -22,7 +22,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 |     :---    | :---           | :---:       |
 | [GitHub repo - Azure Functions](https://github.com/vivsridh4/funcapp)<br/>[GitHub repo - Azure Kubernetes Service](https://github.com/vivsridh4/azure-voting-app-redis) | [Continuous delivery by using GitHub Action](https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python)<br/>[Prepare an application for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)<br/>[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)  | [Recording](https://www.youtube.com/watch?v=iRNfeZSkn5Y&ab_channel=MicrosoftReactor)   |
 
-### [28th July - Streamlining database and ML deployments using GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)
+### [Streamlining database and ML deployments using GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015454/)
 
 * Deploying Machine Learning app using GitHub Actions 
 * Deploying databases changes using GitHub Actions 
@@ -31,7 +31,7 @@ This series will discuss how to automate your workflows on any GitHub event, suc
 |     :---    | :---           | :---:       |
 | [GitHub repo - Azure Machine Learning](https://github.com/vivsridh4/azureml-githubactions)<br/>[GitHub repo - Azure databases](https://github.com/vivsridh4/azure-database-githubactions) | [Use GitHub Actions with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-github-actions-machine-learning)<br/>[Quickstart: Create an Azure Database for MySQL server by using the Azure portal](https://docs.microsoft.com/en-us/azure/mysql/quickstart-create-mysql-server-database-using-azure-portal)<br/>[Quickstart: Use GitHub Actions to connect to Azure MySQL](https://docs.microsoft.com/en-us/azure/mysql/quickstart-mysql-github-actions)  | [Recording](https://www.youtube.com/watch?v=DwWsJwG5-KE&t=2297s&ab_channel=MicrosoftReactor)   |
 
-### [30th July - Implementing container scanning and accelerating development with GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)
+### [Implementing container scanning and accelerating development with GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/279015477/)
 
 * Infra as code using GitHub actions
 * Container scanning
