@@ -6,7 +6,7 @@ Super excited to bring two-month program at Microsoft Reactor as part of my #Azu
 
 We will cover end-to-end DevOps workflow with Kubernetes.
 
-**Subscribe to - ** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
+**Subscribe to -** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
 
 ## [Action for DevOps Engineers / Developers / SRE's](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
 
@@ -22,7 +22,7 @@ I walked into a startup as a DevOps Lead where it was at zero DevOps maturity. J
 
 In this session, experience DevOps with a real-world example.
 
-### [24th September - Docker in 120 minutes!](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
+### [24th September - Docker in 120 minutes](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
 
 80% of organizations will have containers first strategy by 2022. You will probably run your application as a container. We will cover all the essential topics for you to prepare for Docker Associate certification. 
 
@@ -51,6 +51,20 @@ Network watcher and more,
 Understanding database management - Azure Cosmos DB, Azure Cache
 for Redis, SQL and more,
 Compute - App Service, Web Apps, static Web Apps, Azure Kubernetes,
-Service, Functions, Spring Cloud & VM's all from DevOps perspective.
+Service, Functions, Spring Cloud & VM's all from DevOps perspective,
 Containers - Container instance & registry.
+
+### [8th October - Kubernetes for all](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
+
+Kubernetes is open-source orchestration software for deploying, managing and scaling containers. Let's learn how Kubernetes make workloads portable, scale containers quickly, and help build more extensible apps. 
+
+We will cover the following topics: 
+
+Kubernetes Architecture, 
+Core Concepts - Namespaces, services, labels, 
+multi-container pods design patterns, 
+Deployments - rolling updates & rollbacks, 
+Observability - Debugging in Kubernetes, 
+Networking & Policies - ClusterIP, NodePort, LoadBalancer, connectivity between Pods, 
+Storage - classes, persistent volumes, Using secrets in Kubernetes, Ingress controller in Kubernetes.
 
