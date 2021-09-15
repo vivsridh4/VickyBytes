@@ -4,7 +4,7 @@ If you're wondering what does DevOps mean? And who is a DevOps Engineer? What sk
 
 Super excited to bring two-month program at Microsoft Reactor as part of my #AzureHappyHours show to start your career with confidence as a DevOps engineer with Kubernetes. By the end of this series, you will be confident to handle DevOps / SRE tasks at your job and in your startups. If confused, you can go back to on-demand learning resources to implement best practices. 
 
-We will cover **end-to-end DevOps workflow with Kubernetes.** 
+We will cover end-to-end DevOps workflow with Kubernetes.
 
 **Subscribe to all events here -** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
 
@@ -12,7 +12,7 @@ We will cover **end-to-end DevOps workflow with Kubernetes.**
 
 Interested in getting started with DevOps? or Interested in DevOps workflow for Kubernetes & cloud-native apps? Complete the "DevOps for All" challenge and take the next step in becoming a subject matter expert in DevOps workflow.
 
-[DevOps for All - Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
+[**DevOps for All - Cloud Skills Challenge**](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
 
 ## Upcoming Events
 
