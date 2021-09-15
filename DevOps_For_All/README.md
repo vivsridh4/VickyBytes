@@ -6,7 +6,7 @@ Super excited to bring two-month program at Microsoft Reactor as part of my #Azu
 
 We will cover end-to-end DevOps workflow with Kubernetes.
 
-**Subscribe to all events here -** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
+**Subscribe to** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
 
 ## [Action for DevOps Engineers / Developers / SRE's](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
 
@@ -36,5 +36,6 @@ Image creation and registry
 Networking in containers 
 Container security & scanning 
 Storage & volumes 
-Containers on the cloud 
+Containers on the cloud.
+
 
