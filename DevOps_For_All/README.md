@@ -22,4 +22,19 @@ I walked into a startup as a DevOps Lead where it was at zero DevOps maturity. J
 
 In this session, experience DevOps with a real-world example.
 
+### [24th September - Docker in 120 minutes ](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
+
+80% of organizations will have containers first strategy by 2022. You will probably run your application as a container. We will cover all the essential topics for you to prepare for Docker Associate certification. 
+
+We will cover the following topic: 
+
+What's virtualization? 
+Container concepts 
+Introduction to Docker & docker commands 
+Dockerfile & commands 
+Image creation and registry 
+Networking in containers 
+Container security & scanning 
+Storage & volumes 
+Containers on the cloud 
 
