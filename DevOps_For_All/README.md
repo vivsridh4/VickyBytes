@@ -14,7 +14,7 @@ Interested in getting started with DevOps? or Interested in DevOps workflow for 
 
 [**DevOps for All - Cloud Skills Challenge**](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
 
-## Upcoming Events, content, and code samples
+## Upcoming Events, content, & code samples
 
 ### [17th September - A Recipe for DevOps Engineering & Beginners! ](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634341/)
 
