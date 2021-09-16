@@ -32,7 +32,7 @@ Discover the unique benefits of running an Elastic stack on Azure and learn how 
 [Azure Community Conference](https://www.azconf.dev/) <br/>
 [DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
   
-## watch
+## Watch
   
   [ElasticOnAzure Series by Aravind & Vivek](https://www.youtube.com/watch?v=mMKCR1UpHk8&list=PLmsFUfdnGr3yLYV1j1hFte_V-ExlsJjaa&ab_channel=MicrosoftReactor) <br/>
   [GitHub Action Series by Vivek](https://www.youtube.com/watch?v=dyTXblcbqtg&list=PLmsFUfdnGr3zceLMcii5N216NRdjyWbP0&ab_channel=MicrosoftReactor) <br/>
