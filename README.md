@@ -25,6 +25,18 @@ Discover the unique benefits of running an Elastic stack on Azure and learn how 
 
 [Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
 [Series: Java On Azure](Java_On_Azure) <br/>
+  
+## Interesting Events
+  
+[GitHub India Events](https://github.com/github/india/tree/main/Events/GitHub%20Workshops) <br/>
+[Azure Community Conference](https://www.azconf.dev/) <br/>
+[DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
+  
+## watch
+  
+  [ElasticOnAzure Series by Aravind & Vivek](https://www.youtube.com/watch?v=mMKCR1UpHk8&list=PLmsFUfdnGr3yLYV1j1hFte_V-ExlsJjaa&ab_channel=MicrosoftReactor) <br/>
+  [GitHub Action Series by Vivek](https://www.youtube.com/watch?v=dyTXblcbqtg&list=PLmsFUfdnGr3zceLMcii5N216NRdjyWbP0&ab_channel=MicrosoftReactor) <br/>
+  [Java on Azure Series by Azure Developer Community](https://www.youtube.com/watch?v=DeK9uar_K4s&list=PLVQFoklbAYzYc2A7HXB5vwSRJs5oKmQBW&index=1&ab_channel=AzureDeveloperCommunity)
 
 ## Tweets
 
