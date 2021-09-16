@@ -29,32 +29,24 @@ In this session, experience DevOps with a real-world example.
 We will cover the following topic: 
 
 What's virtualization? 
-Container concepts 
-Introduction to Docker & docker commands 
-Dockerfile & commands 
-Image creation and registry 
-Networking in containers 
-Container security & scanning 
-Storage & volumes 
+Container concepts, 
+Introduction to Docker & docker commands, 
+Dockerfile & commands, 
+Image creation and registry,
+Networking in containers,
+Container security & scanning,
+Storage & volumes,
 Containers on the cloud.
 
-### [1st October - Azure Fundamentals for DevOps Engineers](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
+### [1st October - Azure Fundamentals for DevOps Engineers](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634566/)
 
 Every startup or enterprise are using virtual infrastructure on the cloud instead of managing their infrastructure. So in this session, we will understand Azure Cloud from a DevOps engineer perspective & what all essential services are required to scale DevOps / SRE. 
 
 We will cover the following topics/services:
 
-Resource access management in Azure,
-Deep Dive into Azure Networking - Virtual Network, Application
-Gateways, CDN, Load Balancers, Azure Front Door, Azure Firewall,
-Network watcher and more,
-Understanding database management - Azure Cosmos DB, Azure Cache
-for Redis, SQL and more,
-Compute - App Service, Web Apps, static Web Apps, Azure Kubernetes,
-Service, Functions, Spring Cloud & VM's all from DevOps perspective,
-Containers - Container instance & registry.
+Resource access management in Azure, Deep Dive into Azure Networking, Understanding database management (Cosmos DB to Azure Cache), Azure Compute Serices, Container instance & registry.
 
-### [8th October - Kubernetes for all](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
+### [8th October - Kubernetes for all](https://www.meetup.com/microsoft-reactor-bengaluru/events/280635267/)
 
 Kubernetes is open-source orchestration software for deploying, managing and scaling containers. Let's learn how Kubernetes make workloads portable, scale containers quickly, and help build more extensible apps. 
 
@@ -67,4 +59,12 @@ Deployments - rolling updates & rollbacks,
 Observability - Debugging in Kubernetes, 
 Networking & Policies - ClusterIP, NodePort, LoadBalancer, connectivity between Pods, 
 Storage - classes, persistent volumes, Using secrets in Kubernetes, Ingress controller in Kubernetes.
+
+### [22nd October - CI/CD with Azure DevOps & GitHub Actions with Kubernetes](https://www.meetup.com/microsoft-reactor-bengaluru/events/280767217/)
+
+In this session, we will see how CI/CD look like in the real world.
+
+We will cover the following topics:
+
+What is CI, and when & how to use it? Build applications with Azure DevOps & GitHub Actions on k8s, Deploy applications with Azure DevOps & GitHub Actions on k8s, Discussion on ChatOps, GitOps & more
 
