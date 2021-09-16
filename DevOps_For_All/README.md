@@ -68,3 +68,28 @@ We will cover the following topics:
 
 What is CI, and when & how to use it? Build applications with Azure DevOps & GitHub Actions on k8s, Deploy applications with Azure DevOps & GitHub Actions on k8s, Discussion on ChatOps, GitOps & more
 
+### [29th October - Deploy Infra with Terraform, Azure pipelines & GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/280766239/)
+
+We will cover the following topic: 
+
+Terraform for beginners, Use Terraform and Azure Kubernetes Service with Azure pipeline to create a k8s cluster, Tips & tricks to test availability, Build Kubernetes cluster using Terraform and GitHub Actions
+
+### [12th November - Container's insights - Prometheus, Elastic & Azure Monitor](https://www.meetup.com/microsoft-reactor-bengaluru/events/280766346/)
+
+Monitoring your containers is critical, especially when you're running a production cluster, at scale, with multiple applications.
+
+We will cover the following topic: 
+
+Azure Monitoring deep-dive, Configure container insights with Prometheus & Grafana, Log management with Elastic stack with Kubernetes, Distributed Tracing - Deep Dive.
+
+### [26th November - DevOps workflow with Kubernetes in Productions](https://www.meetup.com/microsoft-reactor-bengaluru/events/280766580/)
+
+Whether you want to shorten time to market, create resilient deployments without downtime, release apps and features faster or more frequently or operate with greater flexibility, choosing the right Kubernetes DevOps strategy is key to delivering resilient application and infrastructure.
+
+In this session, we will cover end-to-end DevOps workflow with Kubernetes:
+
+Use Bridge to Kubernetes to run and debug locally, Build and store containers to container registry, Build & Deploy containers to Kubernetes Service, Use Terraform to provision Kubernetes Cluster, Define & build Kubernetes Deployment Strategy, Container health monitoring & real-time log analytics, Adding policy audit & automatic remediations to the CI/CD
+
+## Hacks
+
+Coming Soon!
