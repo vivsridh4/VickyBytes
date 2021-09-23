@@ -27,7 +27,6 @@ In this session, experience DevOps with a real-world example.
 | :---           | :---:       |
 |[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br/>[**Book** - The Phoenix Project](https://www.amazon.in/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)<br/>[**Book** - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment](https://www.amazon.in/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) | [Recording](https://www.youtube.com/watch?v=lJQv6c1I2oc&t=772s&ab_channel=MicrosoftReactor&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
 
-
 ### [24th September - Docker in 120 minutes](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
 
 80% of organizations will have containers first strategy by 2022. You will probably run your application as a container. We will cover all the essential topics for you to prepare for Docker Associate certification. 
