@@ -45,7 +45,7 @@ Containers on the cloud.
 
 |    Reference    | Video |
 | :---           | :---:       |
-|[Aminister Container - Learning path](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/?wt.mc_id=github_#AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=a0N5TFYLfAM&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=2&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
+|[Administer Container - Learning path](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/?wt.mc_id=github_#AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=a0N5TFYLfAM&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=2&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
 
 ### [1st October - Azure Fundamentals for DevOps Engineers](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634566/)
 
