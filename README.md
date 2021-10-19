@@ -17,26 +17,32 @@ Vivek is a technophile and an Open Source contributor with around 15 years of ex
   
 ## Action for Developers
 
-Discover the unique benefits of running an Elastic stack on Azure and learn how to build, deploy and scale Elastic using different deployment options. By completing this challenge - you will learn how the three different deployment options for Elastic stack on Azure work and how to migrate elastic workload to Azure.
+Interested in getting started with DevOps? or Interested in DevOps workflow for Kubernetes & cloud-native apps? Complete the "DevOps for All" challenge and take the next step in becoming a subject matter expert in DevOps workflow.
 
-[Launch Cloud Skill Challenge - #ElasticOnAzure](https://docs.microsoft.com/en-us/learn/challenges?id=120ed721-2562-4096-a622-79b341578a6f&wt.mc_id=seriespg_Elastic%20On%20Azure_webpage_reactor)
+[Launch Cloud Skills Challenge - DevOps For All!](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
+  
+## Job Alert!
+
+We are looking for top talents who drive the digital transformation of our Enterprise and Public Sector customers in Microsoft Services – India Global Delivery – with #Cloud, #.NET. Discover the exciting #Microsoftcareers opportunities as Technical Consultants. You can access the below links for job description.
+  
+Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiringForm-2Oct
 
 ## Completed Series
 
 [Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
 [Series: Java On Azure](Java_On_Azure) <br/>
   
-## Interesting Events
-  
-[GitHub India Events](https://github.com/github/india/tree/main/Events/GitHub%20Workshops) <br/>
-[Azure Community Conference](https://www.azconf.dev/) <br/>
-[DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
+## Interesting events
+
+[Well Architected Framework Series at Reactor](https://developer.microsoft.com/en-us/reactor/eventseries/WellArchIndia)<br/>
+[Hackobterfest by Azure Developer Community](https://www.meetup.com/azure-developer-community-tumkur/events/281466698/?_xtd=gqFyqTI2NDA3MDQ1NqFwo2FwaQ&from=ref) with [Vivek Raja](https://twitter.com/VivekRaja007) & [Vilsi Jain](https://twitter.com/VilsiJ) <br/>
+[#SamosaChai.NET Series](https://developer.microsoft.com/en-us/reactor/eventseries/SamosaChaiNET) with [Nish](https://twitter.com/nishanil) & [Vivek](https://twitter.com/vivek_sridhar) <br/>
+[DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours) by [Vivek](https://twitter.com/vivek_sridhar)<br/>
+[Finding Dory using MS Custom Vision](https://www.meetup.com/microsoft-reactor-bengaluru/events/281496525/?isFirstPublish=true) by [Vedant](https://twitter.com/Vedant_Bahel)
   
 ## Watch
   
-  [ElasticOnAzure Series by Aravind & Vivek](https://www.youtube.com/watch?v=mMKCR1UpHk8&list=PLmsFUfdnGr3yLYV1j1hFte_V-ExlsJjaa&ab_channel=MicrosoftReactor) <br/>
-  [GitHub Action Series by Vivek](https://www.youtube.com/watch?v=dyTXblcbqtg&list=PLmsFUfdnGr3zceLMcii5N216NRdjyWbP0&ab_channel=MicrosoftReactor) <br/>
-  [Java on Azure Series by Azure Developer Community](https://www.youtube.com/watch?v=DeK9uar_K4s&list=PLVQFoklbAYzYc2A7HXB5vwSRJs5oKmQBW&index=1&ab_channel=AzureDeveloperCommunity)
+[#BuildOnAzure - Get started to Building on Azure by exploring the hands-on sessions](https://youtube.com/playlist?list=PLHliAWPfQr8zThK0p1FvaNh4sdkJl4_3_)
 
 ## Tweets
 
