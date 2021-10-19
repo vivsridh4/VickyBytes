@@ -56,8 +56,8 @@ Learning Hours for virtual internship students - https://github.com/vivsridh4/Le
   
 ## Watch
   
-[#BuildOnAzure - Get started to building on Azure by exploring these hands-on sessions](https://youtube.com/playlist?list=PLHliAWPfQr8zThK0p1FvaNh4sdkJl4_3_)
-
+[#BuildOnAzure - Get started to building on Azure by exploring these hands-on sessions](https://youtube.com/playlist?list=PLHliAWPfQr8zThK0p1FvaNh4sdkJl4_3_)<br/>
+[Data Science series for Begineers by Ambarish Ganguly](https://www.youtube.com/c/ambarishg/featured)
 ## Completed Series
 
 [Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
