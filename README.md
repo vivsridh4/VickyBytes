@@ -32,7 +32,7 @@ Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiring
   
 ## Conference Alert!
 
-[Azure Kubernetes Day at Microsoft Reactor](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
+[27th Nov | Azure Kubernetes Day at Microsoft Reactor](https://www.meetup.com/microsoft-reactor-bengaluru/events/281500483/)
   
 By 2022, more than 75% of global organizations will be running containerized applications in production, according to Gartner, and Kubernetes is shaping the future of app development and management - and the Reactor team wants to help you get started & also upskill with it today.In this conference, we plan to cover the basics to advance Kubernetes so that developers can get started & as well upskill, meet the experts & learn new techniques & tools to solve complex problems.
 
@@ -48,11 +48,11 @@ Learning Hours for virtual internship students - https://github.com/vivsridh4/Le
   
 ## Interesting events
 
-[Well Architected Framework Series at Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/eventseries/WellArchIndia)<br/>
-[Hackobterfest by Azure Developer Community](https://www.meetup.com/azure-developer-community-tumkur/events/281466698/?_xtd=gqFyqTI2NDA3MDQ1NqFwo2FwaQ&from=ref) with [Vivek Raja](https://twitter.com/VivekRaja007) & [Vilsi Jain](https://twitter.com/VilsiJ) <br/>
-[#SamosaChai.NET Series](https://developer.microsoft.com/en-us/reactor/eventseries/SamosaChaiNET) with [Nish](https://twitter.com/nishanil) & [Vivek](https://twitter.com/vivek_sridhar) <br/>
-[DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours) by [Vivek](https://twitter.com/vivek_sridhar)<br/>
-[Finding Dory using MS Custom Vision](https://www.meetup.com/microsoft-reactor-bengaluru/events/281496525/?isFirstPublish=true) by [Vedant](https://twitter.com/Vedant_Bahel)
+[20th Oct  | Well Architected Framework Series at Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/eventseries/WellArchIndia)<br/>
+[23rd Oct  | Hackobterfest by Azure Developer Community](https://www.meetup.com/azure-developer-community-tumkur/events/281466698/?_xtd=gqFyqTI2NDA3MDQ1NqFwo2FwaQ&from=ref) with [Vivek Raja](https://twitter.com/VivekRaja007) & [Vilsi Jain](https://twitter.com/VilsiJ) <br/>
+[28th Oct  | #SamosaChai.NET Series](https://developer.microsoft.com/en-us/reactor/eventseries/SamosaChaiNET) with [Nish](https://twitter.com/nishanil) & [Vivek](https://twitter.com/vivek_sridhar) <br/>
+[22nd Oct  | DevOps for All Series](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours) by [Vivek](https://twitter.com/vivek_sridhar)<br/>
+[10th Nov  | Finding Dory using MS Custom Vision](https://www.meetup.com/microsoft-reactor-bengaluru/events/281496525/?isFirstPublish=true) by [Vedant](https://twitter.com/Vedant_Bahel)
   
 ## Watch
   
