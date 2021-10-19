@@ -26,11 +26,6 @@ Interested in getting started with DevOps? or Interested in DevOps workflow for 
 We are looking for top talents who drive the digital transformation of our Enterprise and Public Sector customers in Microsoft Services – India Global Delivery – with #Cloud, #.NET. Discover the exciting #Microsoftcareers opportunities as Technical Consultants. You can access the below links for job description.
   
 Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiringForm-2Oct
-
-## Completed Series
-
-[Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
-[Series: Java On Azure](Java_On_Azure) <br/>
   
 ## Interesting events
 
@@ -42,8 +37,13 @@ Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiring
   
 ## Watch
   
-[#BuildOnAzure - Get started to Building on Azure by exploring the hands-on sessions](https://youtube.com/playlist?list=PLHliAWPfQr8zThK0p1FvaNh4sdkJl4_3_)
+[#BuildOnAzure - Get started to building on Azure by exploring these hands-on sessions](https://youtube.com/playlist?list=PLHliAWPfQr8zThK0p1FvaNh4sdkJl4_3_)
 
+## Completed Series
+
+[Series: GitHub Actions for Azure](GitHub_Actions_Series) <br/>
+[Series: Java On Azure](Java_On_Azure) <br/>
+  
 ## Tweets
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vivek_sridhar&layout=wide)](https://twitter.com/vivek_sridhar)
