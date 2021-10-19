@@ -57,7 +57,7 @@ Resource access management in Azure, Deep Dive into Azure Networking, Understand
 
 |    Reference    | Video |
 | :---           | :---:       |
-|[Administer Container - Learning path](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/?wt.mc_id=github_#AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=0wkHmlZcWGE&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=3&ab_channel=MicrosoftReactor&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
+|[Azure resource access management](https://docs.microsoft.com/azure/cloud-adoption-framework/govern/resource-consistency/resource-access-management/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>[Azure Front Door](https://docs.microsoft.com/azure/frontdoor/front-door-overview/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>[What is Azure Firewall?](https://docs.microsoft.com/azure/firewall/overview/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>[Azure Fundamentals](https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)<br>[What is Azure Application Gateway?](https://docs.microsoft.com/azure/application-gateway/overview/?wt.mc_id=github_#AzureHappyHours_webinar_reactor)  | [Recording](https://www.youtube.com/watch?v=0wkHmlZcWGE&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=3&ab_channel=MicrosoftReactor&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
 
 ### [8th October - Kubernetes for all](https://www.meetup.com/microsoft-reactor-bengaluru/events/280635267/)
 
