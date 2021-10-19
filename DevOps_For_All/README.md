@@ -73,6 +73,10 @@ Observability - Debugging in Kubernetes,
 Networking & Policies - ClusterIP, NodePort, LoadBalancer, connectivity between Pods, 
 Storage - classes, persistent volumes, Using secrets in Kubernetes, Ingress controller in Kubernetes.
 
+|    Reference    | Video |
+| :---           | :---:       |
+|[Kubernetes Basics by Brendan Burns](https://youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT)<br>[Azure Kubernetes Service Workshop](https://aka.ms/k8sworkshop)<br>[phippy goes to the zoo - pdf](https://azure.microsoft.com/resources/phippy-goes-to-the-zoo/?wt.mc_id=github_#AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=3R5HZW1v-Gs&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=4&ab_channel=MicrosoftReactor&wt.mc_id=github_#AzureHappyHours_webinar_reactor)  |
+
 ### [22nd October - CI/CD with Azure DevOps & GitHub Actions with Kubernetes](https://www.meetup.com/microsoft-reactor-bengaluru/events/280767217/)
 
 In this session, we will see how CI/CD look like in the real world.
