@@ -25,7 +25,7 @@ Interested in getting started with DevOps? or Interested in DevOps workflow for 
 
 Microsoft Services - India Global Delivery Team is looking for top talents who drive the digital transformation of our Enterprise and Public Sector customers – with #Cloud, #.NET technologies. Discover the exciting #Microsoftcareers opportunities as Technical Consultants. You can access the below links for job description:
   
-https://lnkd.in/gyDWEEvx
+https://lnkd.in/gyDWEEvx <br/>
 https://lnkd.in/g-ZpuYF3
   
 Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiringForm-2Oct
