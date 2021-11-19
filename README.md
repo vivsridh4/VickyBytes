@@ -36,7 +36,7 @@ Please fill the Microsoft Consultant Hiring Form- https://aka.ms/MicrosoftHiring
   
 By 2022, more than 75% of global organizations will be running containerized applications in production, according to Gartner, and Kubernetes is shaping the future of app development and management - and the Reactor team wants to help you get started & also upskill with it today.In this conference, we plan to cover the basics to advance Kubernetes so that developers can get started & as well upskill, meet the experts & learn new techniques & tools to solve complex problems.
 
-For detailed agenda, speaker details, content & more, visit GitHub repo - https://github.com/vivsridh4/azure-kuberbetes-day
+For detailed agenda, speaker details, content & more, visit GitHub repo - https://github.com/vivsridh4/azure-kunernetes-day
   
 ## Action for Students
 
