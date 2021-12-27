@@ -8,11 +8,11 @@ We will cover end-to-end DevOps workflow with Kubernetes.
 
 **Subscribe to -** [**AzureHappyHours Events**](https://developer.microsoft.com/en-us/reactor/eventseries/AzureHappyHours)
 
-## [Action for DevOps Engineers / Developers / SRE's](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
+## [Action for DevOps Engineers / Developers / SRE's](https://docs.microsoft.com/users/viveksridhar-6316/collections/15jbwd31er68z/?wt.mc_id=github_AzureHappyHours_webinar_reactor)
 
-Interested in getting started with DevOps? or Interested in DevOps workflow for Kubernetes & cloud-native apps? Complete the "DevOps for All" challenge and take the next step in becoming a subject matter expert in DevOps workflow.
+Interested in getting started with DevOps? or Interested in DevOps workflow for Kubernetes & cloud-native apps? Complete the "DevOps for All" Microsoft Learn collection and take the next step in becoming a subject matter expert in DevOps workflow.
 
-[**DevOps for All - Cloud Skills Challenge**](https://docs.microsoft.com/en-us/learn/challenges?id=0171c397-b0f6-4b0a-882e-de9c9cba2999&wt.mc_id=checkin_#AzureHappyHours_webpage_reactor)
+[**DevOps for All - Learn Collection**](https://docs.microsoft.com/users/viveksridhar-6316/collections/15jbwd31er68z/?wt.mc_id=github_AzureHappyHours_webinar_reactor)
 
 ## Upcoming events, content, & code samples
 
