@@ -2,7 +2,7 @@
 
 If you're wondering what does DevOps mean? And who is a DevOps Engineer? What skills do I need to be a successful DevOps / SRE engineer? What tools do I need to master to be a full-stack DevOps / SRE engineer, or how to bring DevOps culture & tools into your startup? Then this is the series to follow.  
 
-Super excited to bring two-month program at Microsoft Reactor as part of my #AzureHappyHours show to start your career with confidence as a DevOps engineer with Kubernetes. By the end of this series, you will be confident to handle DevOps / SRE tasks at your job and in your startups. If confused, you can go back to on-demand learning resources to implement best practices. 
+Super excited to bring two-month program at Microsoft Reactor as part of my #AzureHappyHours show to start your career with confidence as a DevOps engineer with Kubernetes. By the end of this series, you will be confident to handle DevOps / SRE tasks at your job and in your startups. If confused, you can go back to on-demand learning resources to implement best practices.
 
 We will cover end-to-end DevOps workflow with Kubernetes.
 
@@ -18,10 +18,9 @@ Interested in getting started with DevOps? or Interested in DevOps workflow for 
 
 ### [17th September - A Recipe for DevOps Engineering & Beginners!](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634341/)
 
-I walked into a startup as a DevOps Lead where it was at zero DevOps maturity. Join me this **#AzureHappyHours**, where I will share my story about how we implemented DevOps in a startup from scratch, how we moved to 99.9% uptime, the challenges we faced, and what tools we adopted to scale DevOps. 
+I walked into a startup as a DevOps Lead where it was at zero DevOps maturity. Join me this **#AzureHappyHours**, where I will share my story about how we implemented DevOps in a startup from scratch, how we moved to 99.9% uptime, the challenges we faced, and what tools we adopted to scale DevOps.
 
 In this session, experience DevOps with a real-world example.
-
 
 |    Reference    | Video |
 | :---           | :---:       |
@@ -29,14 +28,14 @@ In this session, experience DevOps with a real-world example.
 
 ### [24th September - Docker in 120 minutes](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634405/)
 
-80% of organizations will have containers first strategy by 2022. You will probably run your application as a container. We will cover all the essential topics for you to prepare for Docker Associate certification. 
+80% of organizations will have containers first strategy by 2022. You will probably run your application as a container. We will cover all the essential topics for you to prepare for Docker Associate certification.
 
-We will cover the following topic: 
+We will cover the following topic:
 
-What's virtualization? 
-Container concepts, 
-Introduction to Docker & docker commands, 
-Dockerfile & commands, 
+What's virtualization?
+Container concepts,
+Introduction to Docker & docker commands,
+Dockerfile & commands,
 Image creation and registry,
 Networking in containers,
 Container security & scanning,
@@ -49,7 +48,7 @@ Containers on the cloud.
 
 ### [1st October - Azure Fundamentals for DevOps Engineers](https://www.meetup.com/microsoft-reactor-bengaluru/events/280634566/)
 
-Every startup or enterprise are using virtual infrastructure on the cloud instead of managing their infrastructure. So in this session, we will understand Azure Cloud from a DevOps engineer perspective & what all essential services are required to scale DevOps / SRE. 
+Every startup or enterprise are using virtual infrastructure on the cloud instead of managing their infrastructure. So in this session, we will understand Azure Cloud from a DevOps engineer perspective & what all essential services are required to scale DevOps / SRE.
 
 We will cover the following topics/services:
 
@@ -61,16 +60,16 @@ Resource access management in Azure, Deep Dive into Azure Networking, Understand
 
 ### [8th October - Kubernetes for all](https://www.meetup.com/microsoft-reactor-bengaluru/events/280635267/)
 
-Kubernetes is open-source orchestration software for deploying, managing and scaling containers. Let's learn how Kubernetes make workloads portable, scale containers quickly, and help build more extensible apps. 
+Kubernetes is open-source orchestration software for deploying, managing and scaling containers. Let's learn how Kubernetes make workloads portable, scale containers quickly, and help build more extensible apps.
 
-We will cover the following topics: 
+We will cover the following topics:
 
-Kubernetes Architecture, 
-Core Concepts - Namespaces, services, labels, 
-multi-container pods design patterns, 
-Deployments - rolling updates & rollbacks, 
-Observability - Debugging in Kubernetes, 
-Networking & Policies - ClusterIP, NodePort, LoadBalancer, connectivity between Pods, 
+Kubernetes Architecture,
+Core Concepts - Namespaces, services, labels,
+multi-container pods design patterns,
+Deployments - rolling updates & rollbacks,
+Observability - Debugging in Kubernetes,
+Networking & Policies - ClusterIP, NodePort, LoadBalancer, connectivity between Pods,
 Storage - classes, persistent volumes, Using secrets in Kubernetes, Ingress controller in Kubernetes.
 
 |    Reference    | Video |
@@ -89,10 +88,9 @@ What is CI, and when & how to use it? Build applications with Azure DevOps & Git
 | :---           | :---:       |
 |[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/azure/aks/kubernetes-action/?wt.mc_id=github_AzureHappyHours_webinar_reactor)<br>[Build and deploy to Azure Kubernetes Service](https://docs.microsoft.com/azure/devops/pipelines/ecosystems/kubernetes/aks-template?view=azure-devops&wt.mc_id=github_AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=CDKZWXIyu9U&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=5&wt.mc_id=github_AzureHappyHours_webinar_reactor)  |
 
-
 ### [29th October - Deploy Infra with Terraform, Azure pipelines & GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/280766239/)
 
-We will cover the following topic: 
+We will cover the following topic:
 
 Terraform for beginners, Use Terraform and Azure Kubernetes Service with Azure pipeline to create a k8s cluster, Tips & tricks to test availability, Build Kubernetes cluster using Terraform and GitHub Actions
 
@@ -100,7 +98,7 @@ Terraform for beginners, Use Terraform and Azure Kubernetes Service with Azure p
 
 Monitoring your containers is critical, especially when you're running a production cluster, at scale, with multiple applications.
 
-We will cover the following topic: 
+We will cover the following topic:
 
 Azure Monitoring deep-dive, Configure container insights with Prometheus & Grafana, Log management with Elastic stack with Kubernetes, Distributed Tracing - Deep Dive.
 
