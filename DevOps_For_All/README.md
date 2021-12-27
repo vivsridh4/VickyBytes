@@ -85,6 +85,11 @@ We will cover the following topics:
 
 What is CI, and when & how to use it? Build applications with Azure DevOps & GitHub Actions on k8s, Deploy applications with Azure DevOps & GitHub Actions on k8s, Discussion on ChatOps, GitOps & more
 
+|    Reference    | Video |
+| :---           | :---:       |
+|[GitHub Actions for deploying to Kubernetes service](https://docs.microsoft.com/azure/aks/kubernetes-action/?wt.mc_id=github_AzureHappyHours_webinar_reactor)<br>[Build and deploy to Azure Kubernetes Service](https://docs.microsoft.com/azure/devops/pipelines/ecosystems/kubernetes/aks-template?view=azure-devops&wt.mc_id=github_AzureHappyHours_webinar_reactor) | [Recording](https://www.youtube.com/watch?v=CDKZWXIyu9U&list=PLmsFUfdnGr3zCvRrMxOetO8fr_bo_hOjA&index=5&wt.mc_id=github_AzureHappyHours_webinar_reactor)  |
+
+
 ### [29th October - Deploy Infra with Terraform, Azure pipelines & GitHub Actions](https://www.meetup.com/microsoft-reactor-bengaluru/events/280766239/)
 
 We will cover the following topic: 
