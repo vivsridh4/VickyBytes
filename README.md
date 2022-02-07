@@ -4,11 +4,11 @@
 
 ## Hi there, I'm Vivek Sridhar <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40vivek_sridhar)](https://twitter.com/vivek_sridhar)
+
 #### Technophile | DevOps & Cloud enthusiast | A wanderlust!
 
-Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Senior Cloud Advocate. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
-
-#### [My talks on my YouTube channel - VickyBytes](https://www.youtube.com/channel/UCdBGGfTge-s8rW00YmSza4g)
+Vivek is a technophile and an Open Source contributor with around 15 years of experience in the Software Industry and works at Microsoft as Senior Cloud Advocate, Cloud + AI Engineering team. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps & QA at BlackBuck and was a DevOps Solution Architect at HCL in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer.
 
 #### 📫 How to reach me:
   
@@ -66,4 +66,5 @@ Learning Hours for virtual internship students - https://github.com/vivsridh4/Le
 ## Tweets
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vivek_sridhar&layout=wide)](https://twitter.com/vivek_sridhar)
+ 
 
