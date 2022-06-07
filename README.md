@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://drive.google.com/thumbnail?id=180x0d9UBnjWVPexLIshWzmuNgqHULf5w">
 </p>
 
-## Hi there, I'm Vivek Sridhar <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+## Hi there, I'm Vivek Sridhar <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="12px">
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40vivek_sridhar)](https://twitter.com/vivek_sridhar)
 
