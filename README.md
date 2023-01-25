@@ -15,10 +15,6 @@ Vivek is a technophile and an Open Source contributor with around 17 years of ex
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/vivek_sridhar)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivsridh/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vivsridh/)  &nbsp; 
 <a href="mailto:vivek@vickybytes.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
-## Conference Alert!
-
-Coming soon!
-  
 ## Tweets
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vivek_sridhar&layout=wide)](https://twitter.com/vivek_sridhar)
