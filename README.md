@@ -14,5 +14,15 @@ Vivek is a technophile and an open-source contributor with around 17+ years of e
   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/vivek_sridhar)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vivsridh/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vivsridh/)  &nbsp; 
 <a href="mailto:vivek@vickybytes.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+<script
+          async
+          src="https://www.buildquickbots.com/gsui/js/embedScript/gs_wa_widget.js"
+          data-appid=e47b22d3-142b-4db6-9ebf-4a1f58047d12
+          data-appname=vickybytes
+          data-source="WEB"
+          data-env=QA
+          data-lang=en_US
+        ></script>
  
 
