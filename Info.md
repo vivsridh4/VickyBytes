@@ -1,1 +1,1 @@
-VickyBytes Coming Soon!
+Coming Soon!
