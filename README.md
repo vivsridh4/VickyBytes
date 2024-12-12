@@ -8,7 +8,7 @@
 
 #### About Me:
 
-Vivek is a technophile and an open-source contributor with around 17+ years of experience in the Software Industry and works at Microsoft as CTO - Microsoft for Startups. In his previous role, he mentored startups /developer speakers at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder & Chief Architect of NoodleNext Technology. He was also heading DevOps at BlackBuck and was a solution architect at HCL (Australia) in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer. He has also published three papers in international forums, including one international journal.
+Vivek is a technophile and an open-source contributor with around 18+ years of experience in the Software Industry and works at Microsoft as CTO - Microsoft for Startups. In his previous role, he mentored startups /developer speakers at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder & Chief Architect of NoodleNext Technology. He was also heading DevOps at BlackBuck and was a solution architect at HCL (Australia) in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer. He has also published three papers in international forums, including one international journal.
 
 #### 📫 How to reach me:
   
